@@ -1,0 +1,5 @@
+Dist-Zilla-Plugin-Signature*
+.build
+.*.swp
+*.bak
+*~
